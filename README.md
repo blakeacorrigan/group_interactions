@@ -1,7 +1,7 @@
 # Inferring Stochastic Group Interactions within Structured Populations via Coupled Autoregression
 by Blake McGrane-Corrigan, Oliver Mason and Rafael de Andrade Moral
 
-Preprint: https://arxiv.org/abs/2305.07981
+Paper: https://www.sciencedirect.com/science/article/pii/S0022519324000742
 
 -"Paper_R_Script" contains all code needed to reproduce plots and empirical results, as well as simulation study results. 
 The plots are included as png images, as seen in paper.
